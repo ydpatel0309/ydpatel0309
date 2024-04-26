@@ -2,9 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydpatel0309&label=Profile%20views&color=0e75b6&style=flat" alt="ydpatel0309" /> </p>
 <img align="right" alt="coding" width="400" src="https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif">
 
-- 🔭 I’m currently working on [DevDuel](https://devduel.netlify.app/)
-
-- 🌱 I’m currently learning **Frameworks,Figma,Angular,JavaScript,Node.js**
+- 🌱 I’m currently learning **Frameworks,Figma,React,JavaScript,Node.js,MongoDB**
 
 - 📫 How to reach me **ydpatel0309@gmail.com**
 
