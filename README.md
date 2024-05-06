@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydpatel0309&label=Profile%20views&color=0e75b6&style=flat" alt="ydpatel0309" /> </p>
 <img align="right" alt="coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/91671051/326071307-e2423a84-67b6-4299-b6f1-9d47e18811d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240426T181101Z&X-Amz-Expires=300&X-Amz-Signature=9aa5265a4aa19940ab1606f1bd7178ec2bce685f1544f16bda8a6a0dbe5e8bda&X-Amz-SignedHeaders=host&actor_id=91671051&key_id=0&repo_id=710218372">
 
-
+- Portfolio in Process: 
 
 - 🌱 I’m currently learning **Frameworks,Figma,React,JavaScript,Node.js,MongoDB**
 
