@@ -4,7 +4,7 @@
 
 - Portfolio in Process: https://yash393.netlify.app/
 
-- 🌱 I’m currently learning **Frameworks,Figma,React,JavaScript,Node.js,MongoDB**
+-  I’m currently learning **Frameworks,Figma,React,Node.js,MongoDB**
 
 - 📫 How to reach me **ydpatel0309@gmail.com**
 
